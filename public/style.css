@@ -1,0 +1,53 @@
+
+.sidebar {
+    height: 100%;
+    width: 250px;
+    position:fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: rgba(128, 0, 107);
+    overflow-x: hidden;
+    padding-top: 16px;
+  }
+
+#box{
+
+    width: 50%;
+    margin-top: 80px;
+    margin-left: 400px;
+  
+}
+
+#box2{
+
+    width: 50%;
+    margin-top: 100px;
+    margin-left: 400px; 
+}
+
+#myHeader{
+    background-color: rgba(128, 0, 107);
+    color: white;
+    text-align: center;
+    padding: 20px;
+    font-family:"Times New Roman", Times, serif;
+}
+
+#d{
+
+    margin-left: -10px;
+    margin-bottom: 30px;
+}
+
+#v{
+
+    margin-left: -10px;
+    margin-top: -60px;
+}
+
+.table{
+
+    margin-left: 150px;
+    margin-top: 70px;
+}
